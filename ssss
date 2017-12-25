@@ -1,0 +1,43 @@
+*   [33mcommit ea794a5e14bc61a70510756c9bab76263b385580[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: fbe593c f9071c3
+[31m|[m [32m|[m Author: Jack <476214804@qq.com>
+[31m|[m [32m|[m Date:   Mon Dec 25 16:00:06 2017 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     merge with no-ff
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit f9071c338bb999d9ebeef19001e6434f81a05c3a[m[33m ([m[1;32mdev[m[33m)[m
+[31m|[m[31m/[m  Author: Jack <476214804@qq.com>
+[31m|[m   Date:   Mon Dec 25 15:59:28 2017 +0800
+[31m|[m   
+[31m|[m       add merge
+[31m|[m   
+*   [33mcommit fbe593c442901461044f163ebd0a104b17b310f6[m
+[33m|[m[34m\[m  Merge: 2f248b4 6508466
+[33m|[m [34m|[m Author: Jack <476214804@qq.com>
+[33m|[m [34m|[m Date:   Mon Dec 25 15:32:14 2017 +0800
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     conflict fixed
+[33m|[m [34m|[m 
+[33m|[m * [33mcommit 6508466eceb72b6331fd16f2ec14da2bd0d4235a[m
+[33m|[m [34m|[m Author: Jack <476214804@qq.com>
+[33m|[m [34m|[m Date:   Mon Dec 25 15:02:45 2017 +0800
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     AND simple
+[33m|[m [34m|[m 
+* [34m|[m [33mcommit 2f248b41f94e5999a81032c93d057efc67c43be5[m
+[34m|[m[34m/[m  Author: Jack <476214804@qq.com>
+[34m|[m   Date:   Mon Dec 25 15:07:52 2017 +0800
+[34m|[m   
+[34m|[m       & simple
+[34m|[m 
+* [33mcommit 8e1ee53d112bfbf927f8bba6c7774dc190feaa75[m
+[34m|[m Author: Jack <476214804@qq.com>
+[34m|[m Date:   Mon Dec 25 14:36:29 2017 +0800
+[34m|[m 
+[34m|[m     branch test
+[34m|[m 
+* [33mcommit 4495e283060d4480ed0113bb922ce711cad7206d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+  Author: riodejack135 <33411009+riodejack135@users.noreply.github.com>
+  Date:   Mon Dec 25 14:16:23 2017 +0800
+  
+      Initial commit
